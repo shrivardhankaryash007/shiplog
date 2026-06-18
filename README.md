@@ -40,4 +40,4 @@ An entry only goes here once a stranger can open the result. That constraint is 
 
 ## License
 
-MIT — © 2026 Yash Shrivardhan Kar
+MIT — © 2026 Yash Shrivardhankar
